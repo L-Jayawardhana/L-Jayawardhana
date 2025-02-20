@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lakdinu Jayawardhana</h1>
 <h3 align="center">A passionate Computer Science student from Sri Lanka (+94)</h3>
-<table border="0" width="100%" height="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-jayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="l-jayawardhana" /> </p>
+
+
+<table border="2" width="100%" height="100%">
         <tr>
             <td width="60%">
-- 🔭 I’m currently working on **portfolio**
 
+
+- 🔭 I’m currently working on **PORTFOLIO**
+  
 - 💬 Ask me about **C**
+
+- 🌱 I’m currently learning **JAVA , SQL , R**
 
 - 📫 How to reach me **lakdinurameshjayawardhana@gmail.com**
             <h3 align="center">Connect with me:</h3>
