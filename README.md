@@ -8,7 +8,7 @@
             <td width="60%">
 
 
-- 🔭 I’m currently working on **PORTFOLIO**
+- 🔭 I’m currently working on **GYM SYNC**
   
 - 💬 Ask me about **C**
 
