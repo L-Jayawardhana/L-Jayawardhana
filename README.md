@@ -8,11 +8,11 @@
             <td width="65%">
 
 
-- 🔭 I’m currently working on **GYM SYNC**
+- 🔭 I’m currently working on **My Portfolio**
   
-- 💬 Ask me about **C**
+- 💬 Ask me about **C , Java**
 
-- 🌱 I’m currently learning **JAVA , SQL , R**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **lakdinurameshjayawardhana@gmail.com**
             <h3 align="center">Connect with me:</h3>
