@@ -26,7 +26,7 @@
           </td>
             <td width="35%" align=center>                    
                 <img src="https://i.postimg.cc/vHwn4BCX/Pngtree-graduate-degree-vector-art-work-15323983.png" 
-                     alt="Tech Vector" width="80%">
+                     alt="Tech Vector" width="100%">
             </td>
         </tr>
     </table>
