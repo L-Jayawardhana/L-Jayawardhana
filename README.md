@@ -12,7 +12,7 @@
   
 - 💬 Ask me about **Java , SpringBoot**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing & Docker**
 
 - 📫 How to reach me **lakdinurameshjayawardhana@gmail.com**
             <h3 align="center">Connect with me:</h3>
