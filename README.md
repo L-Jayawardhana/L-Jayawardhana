@@ -8,7 +8,7 @@
             <td width="65%">
 
 
-- 🔭 I’m currently working on **Cloth Heaven-E-commerce site**
+- 🔭 I’m currently working on **Local LLM for extracting events from voice clips**
   
 - 💬 Ask me about **Java , SpringBoot**
 
