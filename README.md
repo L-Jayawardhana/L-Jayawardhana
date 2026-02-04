@@ -5,7 +5,7 @@
 
 <table border="2" width="100%" height="100%">
         <tr>
-            <td width="70%">
+            <td width="65%">
 
 
 - 🔭 I’m currently working on **My Portfolio**
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="linux" width="40" height="40"/> </p>
             </td>
-            <td width="30%" align=center>                    
+            <td width="35%" align=center>                    
                 <img src="https://github.com/L-Jayawardhana/L-Jayawardhana/blob/main/png-removebg-preview.png?raw=true" 
                      alt="Tech Vector" width="100%">
             </td>
