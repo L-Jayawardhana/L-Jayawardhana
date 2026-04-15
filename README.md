@@ -36,9 +36,7 @@
 <h3 align="center">Languages and Tools</h3> 
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="35"/>
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
