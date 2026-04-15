@@ -12,13 +12,9 @@
 <br/>
 
 - 🔭 I’m currently working on **ChronosLog, API Performance Testing System**
-
 - 💬 Ask me about **Java, Spring Boot**
-
 - 🌱 I’m currently learning **Cloud Computing & DevOps**
-
 - 📫 Reach me at: **lakdinurameshjayawardhana@gmail.com**
-
 - 🐧 BTW I'm using **Arch**
 
 
